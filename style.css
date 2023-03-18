@@ -57,8 +57,8 @@ header {
 .navigation .btnLogin-popup {
     width: 130px;
     height: 50px;
-    border: 2px solid #fd1100;
-    background-color: #fd1100;
+    border: 2px solid #06cbfc;
+    background-color: #06cbfc;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
@@ -69,9 +69,9 @@ header {
     transition: .5s;
 }
 .navigation .btnLogin-popup:hover {
-    background: #1efd00;
-    border: 2px solid #1efd00;
-    color: #180201;
+    background: #fff;
+    border: 2px solid #fff;
+    color: #3802fd;
 }
 .wrapper {
     position: relative;
